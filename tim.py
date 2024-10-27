@@ -1,3 +1,4 @@
+
 import random
 from math import sin, cos, pi, log
 from tkinter import *
@@ -7,7 +8,7 @@ CANVAS_HEIGHT = 480
 CANVAS_CENTER_X = CANVAS_WIDTH / 2 
 CANVAS_CENTER_Y = CANVAS_HEIGHT / 2 
 IMAGE_ENLARGE = 11 
-HEART_COLOR = "#8A2BE2" 
+HEART_COLOR = "#8A2BE2"
 
 
 def heart_function(t, shrink_ratio: float = IMAGE_ENLARGE):
