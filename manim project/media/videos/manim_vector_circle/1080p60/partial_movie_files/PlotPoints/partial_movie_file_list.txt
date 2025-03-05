@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Code/Python/manim project/media/videos/manim_vector_circle/1080p60/partial_movie_files/PlotPoints/3977891868_1564392866_4281448441.mp4'
-file 'file:D:/Code/Python/manim project/media/videos/manim_vector_circle/1080p60/partial_movie_files/PlotPoints/2852726489_3201849554_906973542.mp4'
-file 'file:D:/Code/Python/manim project/media/videos/manim_vector_circle/1080p60/partial_movie_files/PlotPoints/2852726489_2465068139_3895255631.mp4'
-file 'file:D:/Code/Python/manim project/media/videos/manim_vector_circle/1080p60/partial_movie_files/PlotPoints/2852726489_3201849554_3863151547.mp4'
-file 'file:D:/Code/Python/manim project/media/videos/manim_vector_circle/1080p60/partial_movie_files/PlotPoints/2852726489_3395992621_2529023264.mp4'
-file 'file:D:/Code/Python/manim project/media/videos/manim_vector_circle/1080p60/partial_movie_files/PlotPoints/2852726489_2749144852_1647822586.mp4'
