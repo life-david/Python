@@ -6,15 +6,15 @@ from tqdm import tqdm
 ##services/view.php?doc=85997207694788187704087149592718231337&format=jpg&page=2&subfolder=85/99/72/
 
 BASE_URL = "http://dlib.ptit.edu.vn/flowpaper/services/view.php?doc="
-DOC_ID = "67977174603455323999853861296228242163"
-SUBFOLDER = "67/97/71/"
+DOC_ID = "59864090667144375813566263486403449245"
+SUBFOLDER = "59/86/40/"
 
 # Thư mục lưu ảnh tạm thời
 img_dir = "downloaded_images"
 os.makedirs(img_dir, exist_ok=True)
 
 # Tổng số trang cần tải
-TOTAL_PAGE = 338
+TOTAL_PAGE = 204
 
 # Danh sách ảnh
 image_list = []
