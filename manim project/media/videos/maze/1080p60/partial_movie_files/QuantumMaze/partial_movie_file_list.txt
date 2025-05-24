@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Code/Python/manim project/media/videos/maze/1080p60/partial_movie_files/QuantumMaze/3977891868_3796165539_1017627646.mp4'
-file 'file:D:/Code/Python/manim project/media/videos/maze/1080p60/partial_movie_files/QuantumMaze/2852726489_1839128356_1233570265.mp4'
